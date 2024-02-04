@@ -1,0 +1,15 @@
+d:\Projects\csapp\CSAPP\bin\Debug\net8.0\CSAPP.exe
+d:\Projects\csapp\CSAPP\bin\Debug\net8.0\CSAPP.deps.json
+d:\Projects\csapp\CSAPP\bin\Debug\net8.0\CSAPP.runtimeconfig.json
+d:\Projects\csapp\CSAPP\bin\Debug\net8.0\CSAPP.dll
+d:\Projects\csapp\CSAPP\bin\Debug\net8.0\CSAPP.pdb
+d:\Projects\csapp\CSAPP\obj\Debug\net8.0\CSAPP.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\csapp\CSAPP\obj\Debug\net8.0\CSAPP.AssemblyInfoInputs.cache
+d:\Projects\csapp\CSAPP\obj\Debug\net8.0\CSAPP.AssemblyInfo.cs
+d:\Projects\csapp\CSAPP\obj\Debug\net8.0\CSAPP.csproj.CoreCompileInputs.cache
+d:\Projects\csapp\CSAPP\obj\Debug\net8.0\CSAPP.sourcelink.json
+d:\Projects\csapp\CSAPP\obj\Debug\net8.0\CSAPP.dll
+d:\Projects\csapp\CSAPP\obj\Debug\net8.0\refint\CSAPP.dll
+d:\Projects\csapp\CSAPP\obj\Debug\net8.0\CSAPP.pdb
+d:\Projects\csapp\CSAPP\obj\Debug\net8.0\CSAPP.genruntimeconfig.cache
+d:\Projects\csapp\CSAPP\obj\Debug\net8.0\ref\CSAPP.dll
